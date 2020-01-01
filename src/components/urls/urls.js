@@ -1,1 +1,1 @@
-export const pokemon = 'http://localhost:3000/pokemon'
+export const pokemonUrl = 'http://localhost:3000/pokemon'
