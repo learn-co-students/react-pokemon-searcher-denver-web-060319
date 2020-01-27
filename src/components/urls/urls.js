@@ -1,0 +1,1 @@
+export const pokemonUrl = 'http://localhost:3000/pokemon'
